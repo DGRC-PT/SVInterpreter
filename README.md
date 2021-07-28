@@ -1,10 +1,10 @@
-# SVInterpreter
+#SVInterpreter
 
-## This tool was developed to support prediction of the phenotypic outcome of chromosomal or genomic structural variants (unbalanced and balanced translocations, inversion, insertion, deletions or duplications). And is available online in: [Here](https://dgrctools.insa.min-saude.pt/)
+##This tool was developed to support prediction of the phenotypic outcome of chromosomal or genomic structural variants (unbalanced and balanced translocations, inversion, insertion, deletions or duplications). And is available online in: [Here](https://dgrctools.insa.min-saude.pt/)
 
-### It is possible to run SVInterpreter locally using a preexistant Apache / cgi-bin configuration.
+###It is possible to run SVInterpreter locally using a preexistant Apache / cgi-bin configuration.
 
-## Pre-Requisites
+##Pre-Requisites
 * Apache configuration
 * Python collections
 * Python openpyxl
@@ -29,8 +29,8 @@
 * R httr package
 * R hpo.bd and HPOSim packages. For more information see [Here](https://github.com/DGRC-PT/HPOSim_Helper_Scripts)
 
-## Resources on Data directory
-### This distribution of SVInterpreter comes with several data, including:
+##Resources on Data directory
+###This distribution of SVInterpreter comes with several data, including:
 * Chromosome sizes for Hg19 and Hg38
 * Cytoband for [Hg19](https://genome.ucsc.edu/cgi-bin/hgTrackUi?hgsid=1134961021_TAIMkBe3Bbnq2IN3vGYza4zjOVB0&db=hg19&c=chr1&g=cytoBand) and [Hg38](https://genome.ucsc.edu/cgi-bin/hgTrackUi?hgsid=1134961021_TAIMkBe3Bbnq2IN3vGYza4zjOVB0&db=hg38&c=chr1&g=cytoBand)
 * Centromere for [Hg19](https://genome.ucsc.edu/cgi-bin/hgTrackUi?hgsid=1134961021_TAIMkBe3Bbnq2IN3vGYza4zjOVB0&db=hg19&g=gap) and [Hg38](https://genome.ucsc.edu/cgi-bin/hgTrackUi?hgsid=1134961021_TAIMkBe3Bbnq2IN3vGYza4zjOVB0&db=hg38&c=chr1&g=centromeres)
@@ -42,8 +42,8 @@
 * [Observed vs expected Lof](https://gnomad.broadinstitute.org/)
 * [PannelApp data](https://panelapp.genomicsengland.co.uk/)
 
-### Since some resources used by SVInterpreter come for diferent databases that should be regularly updated, we show below how to compile the data needed by SVInterpreter.
-* ### Flybase data
+###Since some resources used by SVInterpreter come for diferent databases that should be regularly updated, we show below how to compile the data needed by SVInterpreter.
+* ###Flybase data
     1 - Go to [Flybase](http://flybase.org/cgi-bin/get_static_page.pl?file=bulkdata7.html&title=Current%20Release)and download the "disease_model_annotation" file
 
     2 - Decompress the file
@@ -53,7 +53,7 @@
 
     4 - Place the output file inside the "data" directory
 
-* ### MGI data
+* ###MGI data
 
     1 - Go to [MGI](http://www.informatics.jax.org/downloads/reports/index.html#pheno) and download the "MGI_GenePheno.rpt" and "VOC_MammalianPhenotype.rpt" files
 
@@ -64,7 +64,7 @@
 
     4 - Place the output file inside the "data" directory
 
-* ### RGD data
+* ###RGD data
 
     1 - Go to [RGD](https://download.rgd.mcw.edu/data_release/) and download the "GENES_RAT" file
 
@@ -75,7 +75,7 @@
 
     4 - Place the output file inside the "data" directory
 
-* ### Wormbase data
+* ###Wormbase data
 
     1 - Go to [wormbase](https://wormbase.org/about/userguide#3--10) and download the "disease_association.WS276.daf.txt" file
 
@@ -87,7 +87,7 @@
     4 - Place the output file inside the "data" directory
 
 
-* ### ZFin data
+* ###ZFin data
 
     1 - Go to [Zfin](https://zfin.org/downloads) and download the "Gene to disease via Ontology" file
 
@@ -96,16 +96,18 @@
 
     4 - Place the output file inside the "data" directory
 
-* ### ClinGen data
+* ###ClinGen data
 You can use the data from [Here](https://genome.ucsc.edu/cgi-bin/hgTables?db=hg38&hgta_group=phenDis&hgta_track=clinGenComp&hgta_table=clinGenGeneDisease&hgta_doSchema=describe+table+schema) and create a tab-separated text file with the following columns: Gene symbol, Disease name, MONDO_ID, HGNC_ID, Classification, link to the clinGen database. Place the file in the  "data" directory
 
-* #### DDG2P Data
+* ####DDG2P Data
 Download the DDG2P data from [Here](https://www.deciphergenomics.org/about/downloads/data), decompress the file, and place it on the "data" directory.
 
+* ### SNP Data
+Download the file from [Here](https://meocloud.pt/link/7cf25647-80ed-4d33-9ab4-eb9268c1193f/SNP_table_hg38_13_3_2019/) and place it on the "data" directory.
 
-### Instalation
+###Instalation
 Simply paste the SVInterpreter.py and svinterpreter_aux folder on your cgi-bin folder.
 
 
-### Notes:
+###Notes:
 * It is possible that some paths defined on the scripts need to be edited to work in your specific workspace

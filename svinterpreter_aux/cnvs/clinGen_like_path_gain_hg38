@@ -1,0 +1,388 @@
+#Release Date: 03-08-2020
+nssv15129436	1	11992535	11997441	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129436	[GRCh38]1p36.22(11992535-11997441)x3
+nssv15151972	1	45334385	45334517	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15151972	[GRCh38]1p34.1(45334385-45334517)x3
+nssv15770728	1	46190463	46190794	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770728	[GRCh38]1p34.1(46190463-46190794)x3
+nssv15161709	1	75745786	75745934	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15161709	[GRCh38]1p31.1(75745786-75745934)x3
+nssv15145435	1	145601945	146041785	duplication	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145435	[GRCh38]1q21.1(145601945-146041785)x3
+nssv15145190	1	145601945	146049618	duplication	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145190	[GRCh38]1q21.1(145601945-146049618)x3
+nssv15145191	1	145601945	148889374	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145191	[GRCh38]1q21.2(145601945-148889374)x3
+nssv15129865	1	161340594	161340655	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129865	[GRCh38]1q23.3(161340594-161340655)x3
+nssv15150573	1	193203795	193236356	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15150573	[GRCh38]1q31.2(193203795-193236356)x3
+nssv15131014	2	32114618	32116232	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131014	[GRCh38]2p22.3(32114618-32116232)x3
+nssv15144415	2	47414259	47429951	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144415	[GRCh38]2p21(47414259-47429951)x3
+nssv15130925	2	47414263	47429947	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130925	[GRCh38]2p21(47414263-47429947)x3
+nssv15145474	2	61372285	62496451	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145474	[GRCh38]2p15(61372285-62496451)x3
+nssv15770314	2	69400344	69400558	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770314	[GRCh38]2p13.3(69400344-69400558)x3
+nssv15755283	2	111929116	111929117	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15755283	[GRCh38]2q13(111929116-111929117)x3
+nssv15130088	2	165295773	165389874	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130088	[GRCh38]2q24.3(165295773-165389874)x3
+nssv15131535	2	165991194	166073671	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131535	[GRCh38]2q24.3(165991194-166073671)x3
+nssv15131538	2	166198621	166311806	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131538	[GRCh38]2q24.3(166198621-166311806)x3
+nssv15128347	2	188988081	188991057	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15128347	[GRCh38]2q32.2(188988081-188991057)x3
+nssv15774124	2	214792287	214797127	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15774124	[GRCh38]2q35(214792287-214797127)x3
+nssv15152275	2	214792291	214797123	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15152275	[GRCh38]2q35(214792291-214797123)x3
+nssv15145242	3	54166	2405982	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145242	[GRCh38]3p26.3(54166-2405982)x3
+nssv15770349	3	37011810	37042341	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770349	[GRCh38]3p22.2(37011810-37042341)x3
+nssv15130943	3	37011814	37042337	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130943	[GRCh38]3p22.2(37011814-37042337)x3
+nssv15131644	3	38575277	38609984	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131644	[GRCh38]3p22.2(38575277-38609984)x3
+nssv15147600	3	177772523	185716872	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15147600	[GRCh38]3q27.2(177772523-185716872)x3
+nssv15145479	3	195939900	197632041	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145479	[GRCh38]3q29(195939900-197632041)x3
+nssv15130095	4	1735761	1806926	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130095	[GRCh38]4p16.3(1735761-1806926)x3
+nssv15770205	4	158680447	158699150	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770205	[GRCh38]4q32.1(158680447-158699150)x3
+nssv15770289	4	158680457	158699140	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770289	[GRCh38]4q32.1(158680457-158699140)x3
+nssv15145487	4	185324779	188495308	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145487	[GRCh38]4q35.2(185324779-188495308)x3
+nssv8639487	5	13791994	13944439	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv8639487	[GRCh38]5p15.2(13791994-13944439)x3
+nssv15770960	5	78885574	78885837	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770960	[GRCh38]5q14.1(78885574-78885837)x3
+nssv15144851	5	110742027	110748283	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144851	[GRCh38]5q22.1(110742027-110748283)x3
+nssv15144832	5	112737024	112755031	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144832	[GRCh38]5q22.2(112737024-112755031)x3
+nssv15143637	5	112737024	112775743	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15143637	[GRCh38]5q22.2(112737024-112775743)x3
+nssv15141404	5	112754873	112821991	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15141404	[GRCh38]5q22.2(112754873-112821991)x3
+nssv15143630	5	112754885	112767396	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15143630	[GRCh38]5q22.2(112754885-112767396)x3
+nssv15145489	5	114046360	118610426	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145489	[GRCh38]5q23.1(114046360-118610426)x3
+nssv15145120	5	132637105	132640815	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145120	[GRCh38]5q31.1(132637105-132640815)x3
+nssv15145165	5	132637109	132640811	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145165	[GRCh38]5q31.1(132637109-132640811)x3
+nssv15770002	6	80200924	80273231	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770002	[GRCh38]6q14.1(80200924-80273231)x3
+nssv15131686	6	129049898	129300892	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131686	[GRCh38]6q22.33(129049898-129300892)x3
+nssv15144316	6	129049918	129300872	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144316	[GRCh38]6q22.33(129049918-129300872)x3
+nssv15144258	6	162262505	162262785	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144258	[GRCh38]6q26(162262505-162262785)x3
+nssv15145119	7	5986749	5987630	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145119	[GRCh38]7p22.1(5986749-5987630)x3
+nssv15129212	7	5986753	5987626	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129212	[GRCh38]7p22.1(5986753-5987626)x3
+nssv15129365	7	5997320	5999281	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129365	[GRCh38]7p22.1(5997320-5999281)x3
+nssv15770119	7	6005882	6006041	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770119	[GRCh38]7p22.1(6005882-6006041)x3
+nssv15129169	7	21570049	21591597	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129169	[GRCh38]7p15.3(21570049-21591597)x3
+nssv15160830	7	52551984	56315037	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15160830	[GRCh38]7p11.2(52551984-56315037)x3
+nssv15770031	7	66091986	66092932	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770031	[GRCh38]7q11.21(66091986-66092932)x3
+nssv15144831	7	66633255	66633464	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144831	[GRCh38]7q11.21(66633255-66633464)x3
+nssv15152985	7	92235383	92237779	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15152985	[GRCh38]7q21.2(92235383-92237779)x3
+nssv15131560	7	107672138	107672248	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131560	[GRCh38]7q22.3(107672138-107672248)x3
+nssv15145249	7	110509840	112783102	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145249	[GRCh38]7q31.1(110509840-112783102)x3
+nssv15130192	7	117480089	117509148	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130192	[GRCh38]7q31.2(117480089-117509148)x3
+nssv15144759	7	142749281	142753040	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144759	[GRCh38]7q34(142749281-142753040)x3
+nssv15129830	7	142749468	142753076	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129830	[GRCh38]7q34(142749468-142753076)x3
+nssv15770454	7	142751754	142753040	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770454	[GRCh38]7q34(142751754-142753040)x3
+nssv15771010	7	142751764	142753030	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15771010	[GRCh38]7q34(142751764-142753030)x3
+nssv15131617	7	150947308	150952873	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131617	[GRCh38]7q36.1(150947308-150952873)x3
+nssv15144113	7	150947372	150953685	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144113	[GRCh38]7q36.1(150947372-150953685)x3
+nssv15145251	7	158603240	159108319	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145251	[GRCh38]7q36.3(158603240-159108319)x3
+nssv15145252	7	158726427	159193469	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145252	[GRCh38]7q36.3(158726427-159193469)x3
+nssv15145058	7	159061689	159335973	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145058	[GRCh38]7q36.3(159061689-159335973)x3
+nssv15145254	8	52425901	52662180	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145254	[GRCh38]8q11.23(52425901-52662180)x3
+nssv15145514	8	52426168	52664096	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145514	[GRCh38]8q11.23(52426168-52664096)x3
+nssv15145063	8	52477663	52864628	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145063	[GRCh38]8q11.23(52477663-52864628)x3
+nssv15145064	8	52541254	52713461	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145064	[GRCh38]8q11.23(52541254-52713461)x3
+nssv15145515	8	52541981	52850712	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145515	[GRCh38]8q11.23(52541981-52850712)x3
+nssv15145516	8	52556598	52839580	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145516	[GRCh38]8q11.23(52556598-52839580)x3
+nssv15145255	8	52698006	53562665	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145255	[GRCh38]8q11.23(52698006-53562665)x3
+nssv15145256	8	52714195	52957953	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145256	[GRCh38]8q11.23(52714195-52957953)x3
+nssv15145109	8	89943243	89971300	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145109	[GRCh38]8q21.3(89943243-89971300)x3
+nssv15770705	8	143934615	143944683	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770705	[GRCh38]8q24.3(143934615-143944683)x3
+nssv15131021	9	271607	328191	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131021	[GRCh38]9p24.3(271607-328191)x3
+nssv15144450	9	271627	382685	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144450	[GRCh38]9p24.3(271627-382685)x3
+nssv15144444	9	271627	399259	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144444	[GRCh38]9p24.3(271627-399259)x3
+nssv15145523	9	20655425	24580688	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145523	[GRCh38]9p21.3(20655425-24580688)x3
+nssv15143878	9	110695383	110762228	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15143878	[GRCh38]9q31.3(110695383-110762228)x3
+nssv15129264	9	127824284	127829847	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129264	[GRCh38]9q34.11(127824284-127829847)x3
+nssv15770231	9	127824294	127829837	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770231	[GRCh38]9q34.11(127824294-127829837)x3
+nssv15129845	9	127843094	127843245	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129845	[GRCh38]9q34.11(127843094-127843245)x3
+nssv15129192	9	134690892	134701353	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129192	[GRCh38]9q34.3(134690892-134701353)x3
+nssv15770857	9	137710947	137758031	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770857	[GRCh38]9q34.3(137710947-137758031)x3
+nssv15143908	9	137762655	137790990	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15143908	[GRCh38]9q34.3(137762655-137790990)x3
+nssv15145186	10	3076972	6208037	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145186	[GRCh38]10p15.1(3076972-6208037)x3
+nssv15142589	10	27940403	27969505	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15142589	[GRCh38]10p12.1(27940403-27969505)x3
+nssv15160810	10	46157933	50098267	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15160810	[GRCh38]10q11.23(46157933-50098267)x3
+nssv15129964	11	2768843	2847766	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129964	[GRCh38]11p15.4(2768843-2847766)x3
+nssv15770726	11	94460926	94479771	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770726	[GRCh38]11q21(94460926-94479771)x3
+nssv15129174	11	94476283	94478882	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129174	[GRCh38]11q21(94476283-94478882)x3
+nssv15770716	11	108243943	108354884	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770716	[GRCh38]11q22.3(108243943-108354884)x3
+nssv15143986	11	108243947	108354880	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15143986	[GRCh38]11q22.3(108243947-108354880)x3
+nssv15123524	11	108267171	108354874	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15123524	[GRCh38]11q22.3(108267171-108354874)x3
+nssv15160811	11	118989374	135076622	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15160811	[GRCh38]11q25(118989374-135076622)x3
+nssv16215198	12	101757467	101757468	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv16215198	[GRCh38]12q23.2(101757467-101757468)x3
+nssv15130057	13	32344552	32346902	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130057	[GRCh38]13q13.1(32344552-32346902)x3
+nssv15771803	13	32346807	32346916	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15771803	[GRCh38]13q13.1(32346807-32346916)x3
+nssv15771804	13	32354841	32380165	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15771804	[GRCh38]13q13.1(32354841-32380165)x3
+nssv15143902	13	32356422	32363539	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15143902	[GRCh38]13q13.1(32356422-32363539)x3
+nssv15143890	13	32370382	32371120	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15143890	[GRCh38]13q13.1(32370382-32371120)x3
+nssv15129398	13	32370396	32371106	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129398	[GRCh38]13q13.1(32370396-32371106)x3
+nssv15130748	13	32370955	32376669	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130748	[GRCh38]13q13.1(32370955-32376669)x3
+nssv15144727	13	32370950	32371106	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144727	[GRCh38]13q13.1(32370950-32371106)x3
+nssv15143636	13	48342593	48368610	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15143636	[GRCh38]13q14.2(48342593-48368610)x3
+nssv15770985	13	48452983	48456359	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770985	[GRCh38]13q14.2(48452983-48456359)x3
+nssv15143651	13	48463725	48465374	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15143651	[GRCh38]13q14.2(48463725-48465374)x3
+nssv15131550	14	38411139	38421941	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131550	[GRCh38]14q21.1(38411139-38421941)x3
+nssv15144289	14	45159090	45159286	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144289	[GRCh38]14q21.2(45159090-45159286)x3
+nssv15144263	14	67143342	67143469	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144263	[GRCh38]14q23.3(67143342-67143469)x3
+nssv8639426	14	95696766	96390792	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv8639426	[GRCh38]14q32.2(95696766-96390792)x3
+nssv15124011	14	95696766	96390792	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15124011	[GRCh38]14q32.2(95696766-96390792)x3
+nssv15123668	14	95696766	96390792	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15123668	[GRCh38]14q32.2(95696766-96390792)x3
+nssv15123232	14	95696766	96390792	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15123232	[GRCh38]14q32.2(95696766-96390792)x3
+nssv15145026	15	28465091	30182562	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145026	[GRCh38]15q13.2(28465091-30182562)x3
+nssv15145027	15	28917240	30379798	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145027	[GRCh38]15q13.2(28917240-30379798)x3
+nssv15145443	15	30506022	32161746	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145443	[GRCh38]15q13.3(30506022-32161746)x3
+nssv15145028	15	30568981	32151126	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145028	[GRCh38]15q13.3(30568981-32151126)x3
+nssv15130206	15	48520639	48613112	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130206	[GRCh38]15q21.1(48520639-48613112)x3
+nssv15144724	15	48596263	48613112	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144724	[GRCh38]15q21.1(48596263-48613112)x3
+nssv15129439	15	67164875	67170624	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129439	[GRCh38]15q22.33(67164875-67170624)x3
+nssv15145445	15	72640623	75277317	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145445	[GRCh38]15q24.2(72640623-75277317)x3
+nssv15159753	15	74071509	77878298	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15159753	[GRCh38]15q24.3(74071509-77878298)x3
+nssv15154178	16	3736016	3736835	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154178	[GRCh38]16p13.3(3736016-3736835)x3
+nssv15153107	16	3736630	3740569	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15153107	[GRCh38]16p13.3(3736630-3740569)x3
+nssv15145029	16	11369400	13577493	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145029	[GRCh38]16p13.12(11369400-13577493)x3
+nssv15145446	16	21928119	22428075	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145446	[GRCh38]16p12.2(21928119-22428075)x3
+nssv15145205	16	21928119	22435412	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145205	[GRCh38]16p12.2(21928119-22435412)x3
+nssv15149845	16	23602181	23606774	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15149845	[GRCh38]16p12.2(23602181-23606774)x3
+nssv15154225	16	23607854	23608022	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154225	[GRCh38]16p12.2(23607854-23608022)x3
+nssv15154206	16	23613994	23614101	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154206	[GRCh38]16p12.2(23613994-23614101)x3
+nssv15146918	16	23614004	23614091	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15146918	[GRCh38]16p12.2(23614004-23614091)x3
+nssv8639500	16	29390980	30215610	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv8639500	[GRCh38]16p11.2(29390980-30215610)x3
+nssv8639917	16	29506378	30180574	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv8639917	[GRCh38]16p11.2(29506378-30180574)x3
+nssv8639379	16	29602174	30178709	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv8639379	[GRCh38]16p11.2(29602174-30178709)x3
+nssv8639908	16	29685652	30180586	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv8639908	[GRCh38]16p11.2(29685652-30180586)x3
+nssv15770274	16	68801660	68801903	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770274	[GRCh38]16q22.1(68801660-68801903)x3
+nssv15129213	16	68801664	68801899	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129213	[GRCh38]16q22.1(68801664-68801899)x3
+nssv15130033	16	68819274	68829803	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130033	[GRCh38]16q22.1(68819274-68829803)x3
+nssv15154200	16	78424850	78432772	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154200	[GRCh38]16q23.1(78424850-78432772)x3
+nssv15154845	16	89510470	89513057	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154845	[GRCh38]16q24.3(89510470-89513057)x3
+nssv15770206	16	89744949	89784974	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770206	[GRCh38]16q24.3(89744949-89784974)x3
+nssv15144703	16	89744959	89784964	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144703	[GRCh38]16q24.3(89744959-89784964)x3
+nssv15770725	16	89798246	89799648	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770725	[GRCh38]16q24.3(89798246-89799648)x3
+nssv15130217	17	7674853	7676600	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130217	[GRCh38]17p13.1(7674853-7676600)x3
+nssv15771039	17	31213859	31236281	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15771039	[GRCh38]17q11.2(31213859-31236281)x3
+nssv15162456	17	31325810	31330508	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15162456	[GRCh38]17q11.2(31325810-31330508)x3
+nssv15145451	17	36357256	37995300	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145451	[GRCh38]17q12(36357256-37995300)x3
+nssv15773949	17	43049101	43051137	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15773949	[GRCh38]17q21.31(43049101-43051137)x3
+nssv15128588	17	43049121	43051117	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15128588	[GRCh38]17q21.31(43049121-43051117)x3
+nssv15143872	17	43057032	43063971	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15143872	[GRCh38]17q21.31(43057032-43063971)x3
+nssv15129171	17	43057046	43057141	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129171	[GRCh38]17q21.31(43057046-43057141)x3
+nssv15123541	17	43057052	43063951	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15123541	[GRCh38]17q21.31(43057052-43063951)x3
+nssv15129807	17	43076488	43082575	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129807	[GRCh38]17q21.31(43076488-43082575)x3
+nssv15130749	17	43082403	43090943	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130749	[GRCh38]17q21.31(43082403-43090943)x3
+nssv15144327	17	43082384	43106553	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15144327	[GRCh38]17q21.31(43082384-43106553)x3
+nssv15130255	17	43082398	43106539	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130255	[GRCh38]17q21.31(43082398-43106539)x3
+nssv16215217	17	43091559	43091560	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv16215217	[GRCh38]17q21.31(43091559-43091560)x3
+nssv15771787	17	43099755	43099900	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15771787	[GRCh38]17q21.31(43099755-43099900)x3
+nssv15774084	17	43099755	43115799	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15774084	[GRCh38]17q21.31(43099755-43115799)x3
+nssv15130849	17	43115720	43115785	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130849	[GRCh38]17q21.31(43115720-43115785)x3
+nssv15130934	17	58720740	58720818	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130934	[GRCh38]17q22(58720740-58720818)x3
+nssv15153111	17	61784264	61859913	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15153111	[GRCh38]17q23.2(61784264-61859913)x3
+nssv15151066	17	61847101	61849256	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15151066	[GRCh38]17q23.2(61847101-61849256)x3
+nssv15131010	18	31093539	31093663	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131010	[GRCh38]18q12.1(31093539-31093663)x3
+nssv15770070	18	62088736	62102922	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770070	[GRCh38]18q21.33(62088736-62102922)x3
+nssv15145222	19	7981357	10019383	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145222	[GRCh38]19p13.2(7981357-10019383)x3
+nssv15146942	19	11093583	11107810	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15146942	[GRCh38]19p13.2(11093583-11107810)x3
+nssv15146944	19	11104774	11112892	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15146944	[GRCh38]19p13.2(11104774-11112892)x3
+nssv15130841	19	11105200	11111659	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130841	[GRCh38]19p13.2(11105200-11111659)x3
+nssv15777277	19	11120092	11129670	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15777277	[GRCh38]19p13.2(11120092-11129670)x3
+nssv15128369	19	11120092	11129670	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15128369	[GRCh38]19p13.2(11120092-11129670)x3
+nssv15129372	19	11128008	11137335	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129372	[GRCh38]19p13.2(11128008-11137335)x3
+nssv15131065	19	38523008	38537980	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131065	[GRCh38]19q13.2(38523008-38537980)x3
+nssv15160823	19	41608672	44315856	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15160823	[GRCh38]19q13.31(41608672-44315856)x3
+nssv16214847	19	54118340	54118341	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv16214847	[GRCh38]19q13.42(54118340-54118341)x3
+nssv15129239	20	36911198	36919539	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129239	[GRCh38]20q11.23(36911198-36919539)x3
+nssv15160828	21	43403441	46673937	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15160828	[GRCh38]21q22.3(43403441-46673937)x3
+nssv15145468	22	22624794	24654160	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145468	[GRCh38]22q11.23(22624794-24654160)x3
+nssv15145470	22	23317839	24597843	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145470	[GRCh38]22q11.23(23317839-24597843)x3
+nssv15145236	22	23317839	24654160	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145236	[GRCh38]22q11.23(23317839-24654160)x3
+nssv15770344	22	28699828	28699947	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770344	[GRCh38]22q12.1(28699828-28699947)x3
+nssv15770160	22	28703495	28703576	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770160	[GRCh38]22q12.1(28703495-28703576)x3
+nssv15149454	22	28703505	28703566	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15149454	[GRCh38]22q12.1(28703505-28703566)x3
+nssv15154236	22	28709996	28719495	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154236	[GRCh38]22q12.1(28709996-28719495)x3
+nssv15151616	22	28710000	28712023	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15151616	[GRCh38]22q12.1(28710000-28712023)x3
+nssv15154205	22	28724967	28725377	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154205	[GRCh38]22q12.1(28724967-28725377)x3
+nssv15149070	22	28724977	28725367	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15149070	[GRCh38]22q12.1(28724977-28725367)x3
+nssv15129277	22	29681433	29681607	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129277	[GRCh38]22q12.2(29681433-29681607)x3
+nssv15159764	X	10000	22474705	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15159764	[GRCh38]Xp22.11(10000-22474705)x3
+nssv15130481	X	19350109	19350110	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130481	[GRCh38]Xp22.12(19350109-19350110)x3
+nssv15154831	X	31173519	31508257	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154831	[GRCh38]Xp21.1(31173519-31508257)x3
+nssv15154134	X	31314406	31968534	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154134	[GRCh38]Xp21.1(31314406-31968534)x3
+nssv15154276	X	31348536	31364153	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154276	[GRCh38]Xp21.2(31348536-31364153)x3
+nssv15771040	X	31595570	31627872	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15771040	[GRCh38]Xp21.1(31595570-31627872)x3
+nssv15769209	X	31595570	31968524	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15769209	[GRCh38]Xp21.1(31595570-31968524)x3
+nssv15154266	X	31657970	31729768	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154266	[GRCh38]Xp21.1(31657970-31729768)x3
+nssv15770555	X	31819955	31875393	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770555	[GRCh38]Xp21.1(31819955-31875393)x3
+nssv15151962	X	31819955	31965029	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15151962	[GRCh38]Xp21.1(31819955-31965029)x3
+nssv15153104	X	31819955	32545354	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15153104	[GRCh38]Xp21.1(31819955-32545354)x3
+nssv15154129	X	31836698	31968534	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154129	[GRCh38]Xp21.1(31836698-31968534)x3
+nssv15153097	X	32216896	32390201	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15153097	[GRCh38]Xp21.1(32216896-32390201)x3
+nssv15770719	X	32216896	32501862	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770719	[GRCh38]Xp21.1(32216896-32501862)x3
+nssv15770265	X	32287509	32348548	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770265	[GRCh38]Xp21.1(32287509-32348548)x3
+nssv15770010	X	32287519	32287711	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770010	[GRCh38]Xp21.1(32287519-32287711)x3
+nssv15770578	X	32287519	32348743	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770578	[GRCh38]Xp21.1(32287519-32348743)x3
+nssv15770693	X	32287519	32565891	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770693	[GRCh38]Xp21.1(32287519-32565891)x3
+nssv15770303	X	32454652	32518150	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770303	[GRCh38]Xp21.1(32454652-32518150)x3
+nssv15770250	X	32517998	32614463	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770250	[GRCh38]Xp21.1(32517998-32614463)x3
+nssv15149462	X	32545159	32545334	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15149462	[GRCh38]Xp21.1(32545159-32545334)x3
+nssv15154279	X	32614283	32849840	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154279	[GRCh38]Xp21.1(32614283-32849840)x3
+nssv15154207	X	32697850	32849840	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154207	[GRCh38]Xp21.1(32697850-32849840)x3
+nssv15149830	X	32809493	33211556	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15149830	[GRCh38]Xp21.1(32809493-33211556)x3
+nssv15149821	X	32816468	32844860	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15149821	[GRCh38]Xp21.1(32816468-32844860)x3
+nssv15154238	X	32823275	32823407	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15154238	[GRCh38]Xp21.1(32823275-32823407)x3
+nssv15150577	X	32823295	32823387	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15150577	[GRCh38]Xp21.1(32823295-32823387)x3
+nssv16216821	X	38286808	38286809	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv16216821	[GRCh38]Xp11.4(38286808-38286809)x3
+nssv16214845	X	38286808	38286809	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv16214845	[GRCh38]Xp11.4(38286808-38286809)x3
+nssv16216822	X	38286920	38286921	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv16216822	[GRCh38]Xp11.4(38286920-38286921)x3
+nssv15770410	X	67643236	67686146	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15770410	[GRCh38]Xq12(67643236-67686146)x3
+nssv8639505	X	69956687	69957126	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv8639505	[GRCh38]Xq13.1(69956687-69957126)x3
+nssv15145577	X	97519547	97572671	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145577	[GRCh38]Xq21.33(97519547-97572671)x3
+nssv15145524	X	110074915	115196481	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145524	[GRCh38]Xq23(110074915-115196481)x3
+nssv15130927	X	133753462	133754196	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15130927	[GRCh38]Xq26.2(133753462-133754196)x3
+nssv15771798	X	133753472	133754186	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15771798	[GRCh38]Xq26.2(133753472-133754186)x3
+nssv15145260	Y	1	57227415	duplication	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145260	[GRCh38]Yq12(1-57227415)x3
+nssv15145892	1	821713	3928354	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145892	[GRCh38]1p36.32(821713-3928354)x3
+nssv15147542	1	11021751	15236671	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15147542	[GRCh38]1p36.21(11021751-15236671)x3
+nssv15145882	1	12627415	13993978	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145882	[GRCh38]1p36.21(12627415-13993978)x3
+nssv15136893	1	35934217	36821999	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136893	[GRCh38]1p34.3(35934217-36821999)x3
+nssv15145992	1	52787503	67339873	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145992	[GRCh38]1p31.3(52787503-67339873)x3
+nssv15132272	1	145215697	149076087	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15132272	[GRCh38]1q21.2(145215697-149076087)x3
+nssv15132907	1	145691625	146082575	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15132907	[GRCh38]1q21.1(145691625-146082575)x3
+nssv15135435	1	146355224	148503773	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135435	[GRCh38]1q21.2(146355224-148503773)x3
+nssv15139624	1	146964168	148572213	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139624	[GRCh38]1q21.2(146964168-148572213)x3
+nssv15138714	1	146964168	148572213	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138714	[GRCh38]1q21.2(146964168-148572213)x3
+nssv15137037	1	146964168	148572213	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15137037	[GRCh38]1q21.2(146964168-148572213)x3
+nssv15132914	1	146987841	148359881	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15132914	[GRCh38]1q21.2(146987841-148359881)x3
+nssv15132503	1	146987841	148436984	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15132503	[GRCh38]1q21.2(146987841-148436984)x3
+nssv15138977	1	147016574	149087283	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138977	[GRCh38]1q21.2(147016574-149087283)x3
+nssv15139885	1	147026741	149087283	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139885	[GRCh38]1q21.2(147026741-149087283)x3
+nssv15139671	1	147031738	149087283	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139671	[GRCh38]1q21.2(147031738-149087283)x3
+nssv15138285	1	147031738	149087283	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138285	[GRCh38]1q21.2(147031738-149087283)x3
+nssv15137017	1	147031738	149087283	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15137017	[GRCh38]1q21.2(147031738-149087283)x3
+nssv15136390	1	147036093	148352084	copy number gain	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136390	[GRCh38]1q21.2(147036093-148352084)x3
+nssv15132952	1	147099720	148436984	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15132952	[GRCh38]1q21.2(147099720-148436984)x3
+nssv15137969	1	147773472	148355961	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15137969	[GRCh38]1q21.2(147773472-148355961)x3
+nssv15138326	1	161329273	161356785	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138326	[GRCh38]1q23.3(161329273-161356785)x3
+nssv15148023	1	227613596	229249335	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15148023	[GRCh38]1q42.13(227613596-229249335)x3
+nssv15136049	1	241967139	245542967	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136049	[GRCh38]1q44(241967139-245542967)x3
+nssv15138133	2	17019	4957745	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138133	[GRCh38]2p25.2(17019-4957745)x3
+nssv15136612	2	47089663	48479681	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136612	[GRCh38]2p16.3(47089663-48479681)x3
+nssv15136689	2	60359313	61704436	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136689	[GRCh38]2p15(60359313-61704436)x3
+nssv15139128	2	120621488	121102933	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139128	[GRCh38]2q14.2(120621488-121102933)x3
+nssv15134704	2	120815240	120979362	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15134704	[GRCh38]2q14.2(120815240-120979362)x3
+nssv15139452	2	164941760	165764726	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139452	[GRCh38]2q24.3(164941760-165764726)x3
+nssv15133633	2	199316281	199585721	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15133633	[GRCh38]2q33.1(199316281-199585721)x3
+nssv15136688	2	205163962	206491669	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136688	[GRCh38]2q33.3(205163962-206491669)x3
+nssv15137454	3	32241	8165256	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15137454	[GRCh38]3p25.3(32241-8165256)x3
+nssv15148119	3	7975734	12636917	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15148119	[GRCh38]3p25.2(7975734-12636917)x3
+nssv15147303	3	8038727	11240931	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15147303	[GRCh38]3p25.3(8038727-11240931)x3
+nssv15138078	3	68328980	76764319	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138078	[GRCh38]3p12.3(68328980-76764319)x3
+nssv15148997	3	93819623	103888749	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15148997	[GRCh38]3q13.11(93819623-103888749)x3
+nssv15147549	3	167717962	188365272	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15147549	[GRCh38]3q28(167717962-188365272)x3
+nssv15134956	4	36424	1581567	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15134956	[GRCh38]4p16.3(36424-1581567)x3
+nssv15139324	4	152500649	155788803	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139324	[GRCh38]4q32.1(152500649-155788803)x3
+nssv15139932	4	156499748	163386407	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139932	[GRCh38]4q32.2(156499748-163386407)x3
+nssv15138921	4	168140014	170186711	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138921	[GRCh38]4q33(168140014-170186711)x3
+nssv15133960	4	180451652	190095391	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15133960	[GRCh38]4q35.2(180451652-190095391)x3
+nssv15138648	4	182732498	187998523	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138648	[GRCh38]4q35.2(182732498-187998523)x3
+nssv15133656	5	63207112	71291191	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15133656	[GRCh38]5q13.2(63207112-71291191)x3
+nssv15138540	5	177118445	177374609	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138540	[GRCh38]5q35.3(177118445-177374609)x3
+nssv15138352	5	178235909	181292788	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138352	[GRCh38]5q35.3(178235909-181292788)x3
+nssv15136852	6	152634	6027547	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136852	[GRCh38]6p25.1(152634-6027547)x3
+nssv15139508	6	156974	11550817	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139508	[GRCh38]6p24.2(156974-11550817)x3
+nssv15139953	6	156974	13081201	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139953	[GRCh38]6p24.1(156974-13081201)x3
+nssv15161771	6	44985760	47986838	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15161771	[GRCh38]6p12.3(44985760-47986838)x3
+nssv15134640	7	4849987	5760088	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15134640	[GRCh38]7p22.1(4849987-5760088)x3
+nssv15136465	7	5331115	6751518	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136465	[GRCh38]7p22.1(5331115-6751518)x3
+nssv15136934	7	5378314	5849934	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136934	[GRCh38]7p22.1(5378314-5849934)x3
+nssv15139290	7	62977012	66848675	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139290	[GRCh38]7q11.21(62977012-66848675)x3
+nssv15146778	7	72179092	79164071	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15146778	[GRCh38]7q21.11(72179092-79164071)x3
+nssv15136128	7	143596735	150089125	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136128	[GRCh38]7q36.1(143596735-150089125)x3
+nssv15135858	7	150113232	154162779	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135858	[GRCh38]7q36.2(150113232-154162779)x3
+nssv15148851	7	155379296	159335866	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15148851	[GRCh38]7q36.3(155379296-159335866)x3
+nssv15161787	8	8222339	12050329	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15161787	[GRCh38]8p23.1(8222339-12050329)x3
+nssv15161075	8	139004218	145049449	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15161075	[GRCh38]8q24.3(139004218-145049449)x3
+nssv15161551	8	139236824	145068712	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15161551	[GRCh38]8q24.3(139236824-145068712)x3
+nssv15138360	9	28975663	38787483	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138360	[GRCh38]9p13.1(28975663-38787483)x3
+nssv15139664	9	68624483	72028837	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139664	[GRCh38]9q21.13(68624483-72028837)x3
+nssv15139274	9	135704780	138125937	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139274	[GRCh38]9q34.3(135704780-138125937)x3
+nssv15138324	10	1601172	9203729	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138324	[GRCh38]10p14(1601172-9203729)x3
+nssv15136587	10	19088161	32732293	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136587	[GRCh38]10p11.22(19088161-32732293)x3
+nssv15134984	10	112701186	120970617	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15134984	[GRCh38]10q26.12(112701186-120970617)x3
+nssv15148910	10	127664168	133622588	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15148910	[GRCh38]10q26.3(127664168-133622588)x3
+nssv15136034	11	40688674	44184136	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136034	[GRCh38]11p11.2(40688674-44184136)x3
+nssv15161088	11	42727555	49135735	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15161088	[GRCh38]11p11.12(42727555-49135735)x3
+nssv15138041	11	44146437	44175772	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138041	[GRCh38]11p11.2(44146437-44175772)x3
+nssv15122439	12	13634987	13726033	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15122439	[GRCh38]12p13.1(13634987-13726033)x3
+nssv15147395	12	52851850	53558824	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15147395	[GRCh38]12q13.13(52851850-53558824)x3
+nssv15135731	12	97394550	101410225	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135731	[GRCh38]12q23.2(97394550-101410225)x3
+nssv15161315	12	112416863	112426595	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15161315	[GRCh38]12q24.13(112416863-112426595)x3
+nssv15121749	13	26965244	30097858	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15121749	[GRCh38]13q12.3(26965244-30097858)x3
+nssv15134955	13	111118651	114340331	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15134955	[GRCh38]13q34(111118651-114340331)x3
+nssv15134537	14	20412587	25018120	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15134537	[GRCh38]14q12(20412587-25018120)x3
+nssv15137747	14	39196172	56714461	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15137747	[GRCh38]14q22.3(39196172-56714461)x3
+nssv15145897	14	79330723	85885507	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145897	[GRCh38]14q31.3(79330723-85885507)x3
+nssv15145958	15	97283711	101920998	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145958	[GRCh38]15q26.3(97283711-101920998)x3
+nssv15134946	15	97783828	100780256	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15134946	[GRCh38]15q26.3(97783828-100780256)x3
+nssv15134740	15	98669058	98873604	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15134740	[GRCh38]15q26.3(98669058-98873604)x3
+nssv15120343	16	979282	1005769	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15120343	[GRCh38]16p13.3(979282-1005769)x3
+nssv15136076	16	3303551	3965374	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136076	[GRCh38]16p13.3(3303551-3965374)x3
+nssv15139936	16	3777551	3799207	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139936	[GRCh38]16p13.3(3777551-3799207)x3
+nssv15135782	16	8994630	9793745	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135782	[GRCh38]16p13.2(8994630-9793745)x3
+nssv15148837	16	15194583	18236409	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15148837	[GRCh38]16p12.3(15194583-18236409)x3
+nssv15137711	16	21350622	29202837	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15137711	[GRCh38]16p11.2(21350622-29202837)x3
+nssv15133639	16	22634385	29227323	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15133639	[GRCh38]16p11.2(22634385-29227323)x3
+nssv15131816	16	29170820	30179247	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131816	[GRCh38]16p11.2(29170820-30179247)x3
+nssv15137203	16	29427948	30320693	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15137203	[GRCh38]16p11.2(29427948-30320693)x3
+nssv15135519	16	29466738	30186020	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135519	[GRCh38]16p11.2(29466738-30186020)x3
+nssv15135217	16	29466738	30320693	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135217	[GRCh38]16p11.2(29466738-30320693)x3
+nssv15138260	16	29506377	30165919	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138260	[GRCh38]16p11.2(29506377-30165919)x3
+nssv15139444	16	29506377	30180527	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139444	[GRCh38]16p11.2(29506377-30180527)x3
+nssv15138368	16	29555975	30180527	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138368	[GRCh38]16p11.2(29555975-30180527)x3
+nssv15139286	16	29568699	30228906	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139286	[GRCh38]16p11.2(29568699-30228906)x3
+nssv15138240	16	29568699	30295634	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138240	[GRCh38]16p11.2(29568699-30295634)x3
+nssv15137493	16	29569779	30228906	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15137493	[GRCh38]16p11.2(29569779-30228906)x3
+nssv15135763	16	29579233	30179247	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135763	[GRCh38]16p11.2(29579233-30179247)x3
+nssv15135833	16	29579233	30186020	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135833	[GRCh38]16p11.2(29579233-30186020)x3
+nssv15136980	16	29579233	30320693	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136980	[GRCh38]16p11.2(29579233-30320693)x3
+nssv15139866	16	29598613	30165919	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139866	[GRCh38]16p11.2(29598613-30165919)x3
+nssv15132857	16	29609368	30179188	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15132857	[GRCh38]16p11.2(29609368-30179188)x3
+nssv15136933	16	29609368	30320693	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136933	[GRCh38]16p11.2(29609368-30320693)x3
+nssv15139314	16	29627319	30165919	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139314	[GRCh38]16p11.2(29627319-30165919)x3
+nssv15135477	16	29645363	30186020	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135477	[GRCh38]16p11.2(29645363-30186020)x3
+nssv15137139	16	29645363	30321270	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15137139	[GRCh38]16p11.2(29645363-30321270)x3
+nssv15132491	16	29662633	30179247	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15132491	[GRCh38]16p11.2(29662633-30179247)x3
+nssv15133014	16	29662633	30187279	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15133014	[GRCh38]16p11.2(29662633-30187279)x3
+nssv15133260	16	29662635	30186020	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15133260	[GRCh38]16p11.2(29662635-30186020)x3
+nssv15131807	16	29662635	30187279	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131807	[GRCh38]16p11.2(29662635-30187279)x3
+nssv15139178	16	29682770	30186020	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139178	[GRCh38]16p11.2(29682770-30186020)x3
+nssv15147392	16	83478453	89932910	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15147392	[GRCh38]16q24.3(83478453-89932910)x3
+nssv15147304	16	83988570	90081985	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15147304	[GRCh38]16q24.3(83988570-90081985)x3
+nssv15145890	16	87848216	90096995	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15145890	[GRCh38]16q24.3(87848216-90096995)x3
+nssv15134725	17	162016	1682817	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15134725	[GRCh38]17p13.3(162016-1682817)x3
+nssv15138685	17|NT_187614.1	345010	2123423	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138685	[GRCh38]17|NT_187614.1(345010-2123423)x3
+nssv15139945	17|NT_187614.1	801047	2162677	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139945	[GRCh38]17|NT_187614.1(801047-2162677)x3
+nssv15138263	17|NT_187614.1	801047	2229070	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138263	[GRCh38]17|NT_187614.1(801047-2229070)x3
+nssv15138513	17	1119701	1561544	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138513	[GRCh38]17p13.3(1119701-1561544)x3
+nssv15139312	17	1149477	1473293	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139312	[GRCh38]17p13.3(1149477-1473293)x3
+nssv15136170	17	1227482	2261786	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136170	[GRCh38]17p13.3(1227482-2261786)x3
+nssv15138694	17	1311837	1368660	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138694	[GRCh38]17p13.3(1311837-1368660)x3
+nssv15135792	17	1311837	1530439	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135792	[GRCh38]17p13.3(1311837-1530439)x3
+nssv15136048	17	1332460	1355696	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15136048	[GRCh38]17p13.3(1332460-1355696)x3
+nssv15122753	17	1348488	1358016	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15122753	[GRCh38]17p13.3(1348488-1358016)x3
+nssv15135692	17	1348488	3513273	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135692	[GRCh38]17p13.2(1348488-3513273)x3
+nssv15138334	17	2403263	2960737	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138334	[GRCh38]17p13.3(2403263-2960737)x3
+nssv15135789	17	6361393	7750863	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135789	[GRCh38]17p13.1(6361393-7750863)x3
+nssv15135915	17	36357258	38225796	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135915	[GRCh38]17q12(36357258-38225796)x3
+nssv15135870	17	36461608	37889296	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135870	[GRCh38]17q12(36461608-37889296)x3
+nssv15138201	17	62039036	62927189	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138201	[GRCh38]17q23.2(62039036-62927189)x3
+nssv15138744	18	59909593	72609801	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138744	[GRCh38]18q22.3(59909593-72609801)x3
+nssv15133879	19	421537	2897921	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15133879	[GRCh38]19p13.3(421537-2897921)x3
+nssv15146739	19	3080621	4912622	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15146739	[GRCh38]19p13.3(3080621-4912622)x3
+nssv15132927	19	8831147	13331227	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15132927	[GRCh38]19p13.13(8831147-13331227)x3
+nssv15131069	19	11110650	11110651	copy number gain	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15131069	[GRCh38]19p13.2(11110650-11110651)x3
+nssv15129445	19	11116092	11116093	copy number gain	2/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15129445	[GRCh38]19p13.2(11116092-11116093)x3
+nssv15148848	19	55048514	56972458	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15148848	[GRCh38]19q13.43(55048514-56972458)x3
+nssv15135786	20	31245583	32017285	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15135786	[GRCh38]20q11.21(31245583-32017285)x3
+nssv15138905	20	53236165	64284202	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138905	[GRCh38]20q13.33(53236165-64284202)x3
+nssv15134185	20	55630597	60941207	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15134185	[GRCh38]20q13.33(55630597-60941207)x3
+nssv15148055	X	4082541	12772302	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15148055	[GRCh38]Xp22.2(4082541-12772302)x3
+nssv15121366	X	11108228	11121175	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15121366	[GRCh38]Xp22.2(11108228-11121175)x3
+nssv15148272	X	12856740	19380317	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15148272	[GRCh38]Xp22.12(12856740-19380317)x3
+nssv15138843	X	31518752	31636035	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138843	[GRCh38]Xp21.1(31518752-31636035)x3
+nssv15120342	X	40165688	40662855	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15120342	[GRCh38]Xp11.4(40165688-40662855)x3
+nssv15139232	X	41736613	41807412	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139232	[GRCh38]Xp11.4(41736613-41807412)x3
+nssv15139219	X	44632305	47607180	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139219	[GRCh38]Xp11.23(44632305-47607180)x3
+nssv15147365	X	44765664	49343053	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15147365	[GRCh38]Xp11.23(44765664-49343053)x3
+nssv15137560	X	50659076	50865411	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15137560	[GRCh38]Xp11.22(50659076-50865411)x3
+nssv15148906	X	133532321	137519462	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15148906	[GRCh38]Xq26.3(133532321-137519462)x3
+nssv15147320	X	134405152	134565964	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15147320	[GRCh38]Xq26.3(134405152-134565964)x3
+nssv15134936	X	154604412	154935279	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15134936	[GRCh38]Xq28(154604412-154935279)x3
+nssv15139282	Y	301880	11680029	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15139282	[GRCh38]Yq11.21(301880-11680029)x3
+nssv15138838	Y	11680193	26653790	copy number gain	3/65134 0.001%	Miller_et_al_2010	http://ncbi.nlm.nih.gov/dbvar/variants/nssv15138838	[GRCh38]Yq12(11680193-26653790)x3
