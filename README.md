@@ -1,6 +1,6 @@
 # SVInterpreter
 
-## This tool was developed to support prediction of the phenotypic outcome of chromosomal or genomic structural variants (unbalanced and balanced translocations, inversion, insertion, deletions or duplications). And is available online in: [Here](https://dgrctools.insa.min-saude.pt/)
+## This tool was developed to support prediction of the phenotypic outcome of chromosomal or genomic structural variants (unbalanced and balanced translocations, inversion, insertion, deletions or duplications). And is available online in: [Here](https://dgrctools-insa.min-saude.pt/)
 
 ### It is possible to run SVInterpreter locally using a preexistant Apache / cgi-bin configuration.
 
